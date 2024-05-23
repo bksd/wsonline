@@ -1,1 +1,1 @@
-https//www.baidu.com
+'https://fixdomain.com/wss'
