@@ -1,1 +1,1 @@
-'https://fixdomain.com/wss'
+https://fixdomain.com/wss
