@@ -1,1 +1,1 @@
-https://fixdomain.com/wss
+https://data.uadminpx.top/wss
